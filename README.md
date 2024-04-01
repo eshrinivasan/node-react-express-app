@@ -1,6 +1,5 @@
-# React_Express_App
-- This repository has the code to support a tutorial that I created on Medium called Create a React FrontEnd, a Node/Express BackEnd and connect them together.
-- This repository can also be used as a starting point (boilerplate), if you whant to create your own React/Express app.
+# React Express App
+- This repository can also be used as a starting point (boilerplate), if you want to create your own React/Express app.
 
 ## About the app
 Actually, there are two separated apps. The Client which serves the FrontEnd (using React), and the API (in Node/Express).
